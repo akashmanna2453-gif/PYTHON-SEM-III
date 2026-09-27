@@ -9,4 +9,4 @@ byvaluesthenkeys = sorted(d.items(), key=lambda kv: (kv[1], kv[0]))
 bykeysthenvalues = sorted(d.items(), key=lambda kv: (kv[0], kv[1]))
 
 print("By keys:", bykeys)
-pri
+prin
