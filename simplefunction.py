@@ -1,2 +1,2 @@
 def greet_user():
-    print(
+    print("
