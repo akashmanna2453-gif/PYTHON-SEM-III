@@ -6,3 +6,4 @@
 
 def student(name, age):
     print("Name:",name)
+    print("Age:")
