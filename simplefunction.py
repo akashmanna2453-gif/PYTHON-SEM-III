@@ -1,1 +1,1 @@
-def gree
+def greet
