@@ -1,4 +1,4 @@
 def greet_user():
     print("Hello!")
 
-greet_use
+greet_user
