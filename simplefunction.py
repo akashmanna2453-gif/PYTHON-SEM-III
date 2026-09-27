@@ -1,1 +1,1 @@
-def greet_u
+def greet_us
