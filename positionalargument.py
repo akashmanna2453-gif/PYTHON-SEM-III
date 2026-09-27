@@ -5,3 +5,4 @@
 # student("Akash", 18)
 
 def student(name, age):
+    print
