@@ -4,3 +4,4 @@ bykeys = sorted(d.items())
 
 byvalues = sorted(d.items(), key=lambda kv: kv[1])
 
+b
