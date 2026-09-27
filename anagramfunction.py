@@ -11,4 +11,4 @@ b = input("Enter second word: ")
 if anagram(a, b):
     print("Anagram")
 else:
-    print("Not anagram")
+    print("Not a anagram")
