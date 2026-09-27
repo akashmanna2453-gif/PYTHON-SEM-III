@@ -1,1 +1,1 @@
-def greet_use
+def greet_user
