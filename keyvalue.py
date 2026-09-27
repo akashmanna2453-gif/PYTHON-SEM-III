@@ -10,4 +10,4 @@ bykeysthenvalues = sorted(d.items(), key=lambda kv: (kv[0], kv[1]))
 
 print("By keys:", bykeys)
 print("By values:", byvalues)
-print("By values 
+print("By values t
