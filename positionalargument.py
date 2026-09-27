@@ -4,4 +4,4 @@
 
 # student("Akash", 18)
 
-def student(name,)
+def student(name, age):
