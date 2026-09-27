@@ -4,4 +4,4 @@
 
 # student("Akash", 18)
 
-def
+def student
