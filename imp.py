@@ -1,1 +1,1 @@
-def student_inf
+def student_info
