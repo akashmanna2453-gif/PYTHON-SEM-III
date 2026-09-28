@@ -1,1 +1,1 @@
-def stud
+def stude
