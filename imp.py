@@ -1,1 +1,1 @@
-def student_info(n
+def student_info(na
