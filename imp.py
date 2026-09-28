@@ -1,1 +1,1 @@
-def studen
+def student
