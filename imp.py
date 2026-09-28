@@ -1,1 +1,1 @@
-def student_info(name, age=1
+def student_info(name, age=18
