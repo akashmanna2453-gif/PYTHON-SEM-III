@@ -1,1 +1,1 @@
-def student_in
+def student_inf
