@@ -1,4 +1,4 @@
-num = int(input("Enter a number: "))
+num = int(input("Enter any number: "))
 
 is_prime = True
 
