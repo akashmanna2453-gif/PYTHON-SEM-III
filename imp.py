@@ -1,6 +1,6 @@
 def student_info(name, age=18):
-    print("Name:", name)
-    print("Age:", age)
+    print("Name: ", name)
+    print("Age: ", age)
 
 
 def calculate_marks(m1, m2, m3):
