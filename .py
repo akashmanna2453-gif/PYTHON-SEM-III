@@ -3,4 +3,4 @@ for x in range(10):
         break
     print(x)
 else:
-    print("This will not be printed because the loop is broken before reaching this point.")
+    print("This will not be printed because the loop is broken before reaching this point.So it will not print so far")
