@@ -1,1 +1,1 @@
-words = inpu
+words = input
