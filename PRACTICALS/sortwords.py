@@ -1,1 +1,1 @@
-words = in
+words = inp
