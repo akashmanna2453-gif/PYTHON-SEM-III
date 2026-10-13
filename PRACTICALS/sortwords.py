@@ -1,3 +1,3 @@
 words = input("Enter words: ")
 
-word_list = words.s
+word_list = words.sp
