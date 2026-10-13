@@ -2,4 +2,4 @@ words = input("Enter words: ")
 
 word_list = words.split(",")
 
-word
+word_
