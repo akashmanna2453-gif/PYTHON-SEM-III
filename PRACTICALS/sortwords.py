@@ -2,4 +2,4 @@ words = input("Enter words: ")
 
 word_list = words.split(",")
 
-word_list.sort
+word_list.sort(
