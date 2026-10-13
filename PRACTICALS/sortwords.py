@@ -1,1 +1,1 @@
-words = input("Enter words:
+words = input("Enter words: 
