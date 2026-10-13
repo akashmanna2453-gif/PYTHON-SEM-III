@@ -1,1 +1,1 @@
-words = inp
+words = inpu
