@@ -4,4 +4,4 @@ word_list = words.split(",")
 
 word_list.sort()
 
-print(", ".join(
+print(", ".join(w
