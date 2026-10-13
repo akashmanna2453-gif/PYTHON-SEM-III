@@ -4,4 +4,4 @@ word_list = words.split(",")
 
 word_list.sort()
 
-pr
+pri
